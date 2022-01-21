@@ -1,0 +1,3 @@
+this folder used for data store in the phone
+it can be used to create an abstraction for Sqf lite, hive, objectBox, Sembast
+SharedPreference, Secure Storage 
